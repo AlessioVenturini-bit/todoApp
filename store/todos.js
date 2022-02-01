@@ -13,8 +13,8 @@ export const mutations = {
       divider: true
     })
   },
-  remove(state, { todo }) {
-    state.list.splice(state.list.indexOf(todo), 1)
+  remove(state, todoId) {
+    state.list.splice(state.list.indexOf(todoId), 1)
   },
   toggle(state, todo) {
     todo.done = !todo.done

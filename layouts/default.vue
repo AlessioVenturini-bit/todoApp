@@ -33,7 +33,7 @@
                 <p class="ml-3">John Doe</p>
               </v-card-title>
             </v-img>
-            <nuxt/>
+            <nuxt />
           </v-card>
         </v-row>
       </v-container>
