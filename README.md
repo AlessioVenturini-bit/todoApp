@@ -1,5 +1,12 @@
 # todo-app
 
+This is still a work in progress. 
+
+You can have a quick look at the app here : 
+
+https://nervous-shaw-2b4342.netlify.app
+
+
 ## Build Setup
 
 ```bash
